@@ -1,4 +1,4 @@
-### <div align="center">Hi there! I'm Sıraç (siracwix) 👋
+### <div align="center">Hi there! I'm Siraç (siracwix) 👋
 
 I've been deeply passionate about software development since 2020 🚀 Currently an 11th-grade student & aspiring full-stack developer, constantly building web projects, bots, and exploring open-source software 💻</div>  
   
