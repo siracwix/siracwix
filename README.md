@@ -150,6 +150,3 @@ I've been deeply passionate about software development since 2020 🚀 Currently
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
